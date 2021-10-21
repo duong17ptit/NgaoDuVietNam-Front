@@ -1,0 +1,234 @@
+.intro {
+    max-height: auto;
+    margin-top: 200px;
+}
+.image-intro {
+    position: relative;
+    padding-bottom: 81px;
+}
+.image-intro-1 {
+    /* position: absolute; */
+    width: 445px;
+    height: 541px;
+}
+.image-intro-2 {
+    position: absolute;
+    width: 347px;
+    height: 347px;
+    top: 275px;
+    left: 31%;
+}
+.title-intro {
+    font-size: 40px;
+    font-weight: 500;
+    /* width: 600px !important; */
+}
+.title-intro b {
+    color: #ff7b42;
+}
+.detail-intro {
+    display: flex;
+}
+.detail-intro-image {
+    width: 28px;
+    height: 18px;
+    margin-right: 38.87px;
+}
+.destinations {
+    /* display: flex; */
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.head-content-main {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+
+.title-head-content-main {
+    width: 551px;
+    font-weight: 500;
+    font-size: 40px;
+}
+.button-content-main {
+    /* justify-content: flex-end; */
+    width: 92px;
+    height: 38px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background: #1c1c1e;
+    color: #ffffff;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.ul-destinations {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0;
+}
+.name-destination {
+    margin-top: 12px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.ul-destinations span {
+    color: #636567;
+    font-size: 14px;
+}
+.attractive-tour {
+    margin-bottom: 150px;
+}
+.ul-attractive-tour {
+    padding-left: 0;
+}
+.ul-attractive-tour {
+    display: flex;
+    justify-content: space-between;
+}
+.image-attractive-tour {
+    position: relative;
+    margin-bottom: 17px;
+}
+.attractive-tour-main li{
+
+ 
+
+
+}
+.image-attractive-tour .star {
+    position: absolute;
+    left: 0%;
+    bottom: 18px;
+    background: #ff7b42;
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    padding-left: 11px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.icon-star {
+    margin-bottom: 2px;
+}
+.bookmark {
+    position: absolute;
+    right: 19px;
+    top: -1.1px;
+}
+.name-attractive-tour {
+    margin-top: 4px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.attractive-tour-main span {
+    color:#636567;
+    
+}
+.time-price{
+    display: flex !important;
+    justify-content: space-between;
+    margin-top: 9px;
+}
+.owl-nav .owl-prev.disabled,
+.owl-nav .owl-next.disabled {
+   display: none !important;
+}
+/* .destination-owl {
+    position: relative;
+} */
+button.owl-next {
+    position: absolute;
+    top: 161px;
+    right: -55px;
+}
+button.owl-prev {
+    position: absolute;
+    top: 161px;
+    left: -55px;
+}
+/* .owl-carousel .owl-item img {
+    display: none !important;
+    width: auto !important;
+} */
+img.bookmark {
+    width: 22px !important;
+    height: 36px !important;
+}
+img.icon-star {
+    margin-top: 1px;
+    margin-right: 3px;
+    height: 16px;
+    width: 16px;
+}
+span.star {
+    display: inline-flex !important;
+}
+ .address-icon{
+     /* display: inline-flex; */
+    width: 24px !important;
+    height: 24px !important;
+}
+.adddress {
+    display: flex;
+}
+.time-price .time{
+  display: flex;
+   
+}
+ .time-price  img{
+    width: 24px !important;
+    height: 24px !important;
+   
+}
+.attractive-tour button.owl-next {
+    position: absolute;
+    top: 145px;
+    right: -55px;
+}
+.attractive-tour button.owl-prev {
+    position: absolute;
+    top: 145px;
+    left: -55px;
+}
+.contact{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+   margin-bottom: 150px;
+}
+
+.form-contact input {
+   
+    box-sizing: border-box;
+    width: 500px !important;
+    height: 51.53px;
+}
+.form-contact .input-container {
+    margin-right: 30px;
+}
+.contact form {
+   
+}
+.form-contact {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 40px;
+    
+}
+.form-contact .icon{
+    padding-top: 16px;
+    
+}
+.btn {
+    border-radius: 0 !important;
+}
+.btn-sub-contact{
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 33px;
+    padding-right: 33px;
+}

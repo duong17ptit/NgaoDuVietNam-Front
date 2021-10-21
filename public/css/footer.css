@@ -1,0 +1,57 @@
+.footer {
+    width: 100%;
+    margin-top: 50px;
+}
+.footer-top {
+    background: rgba(28, 28, 30, 1);
+    height: 377px;
+}
+.footer-bot {
+    background: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    font-family: Apercu Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 41px;
+    height: 41px;
+}
+.icon-social li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 35px;
+}
+.logo-footer {
+    margin-top: 50px;
+    margin-bottom: 47px;
+}
+.nav-footer {
+    display: flex;
+    margin-top: 90px;
+    color: #ffffff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    justify-content: space-between;
+}
+.item-footer li{
+    margin-bottom: 29px;
+}
+.item-footer .address{
+    margin-bottom: 24px ;
+}
+.item-footer:last-child {
+    width: 255px;
+}
+.address{
+    display: flex;
+    /* margin-left: 19px; */
+}
+.email{
+    display: flex;
+    /* margin-left: 19px; */
+}
+.text-contact{
+    margin-left: 19px;
+}

@@ -1,0 +1,35 @@
+.wrapper{
+    height: 568px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.detail-intro {
+    padding-right: 30px;
+    
+}
+.feature {
+    display: none;
+}
+.wrap-filter{
+    display: none;
+}
+.wrap-title{
+    width: 100%;
+    text-align: center;
+}
+.content-header-about{
+    display: block;
+}
+.content-header-home , .title-header{
+    display: none;
+}
+.intro{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.image-big {
+    margin-bottom: 150px;
+}
+.experience-left,.experience-right .text{
+    padding-right: 30px;
+}
